@@ -47,5 +47,12 @@ namespace MasterFreezer
                 this.Visibility = System.Windows.Visibility.Hidden;
             }
         }
+        /*private void txtphone_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (txtphone.Text == "输入手机号码")
+            {
+                txtphone.Text = "";
+            }
+        }*/
     }
 }

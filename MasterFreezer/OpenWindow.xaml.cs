@@ -20,8 +20,8 @@ namespace MasterFreezer
     /// </summary>
     public partial class OpenWindow : Window
     {
-        private DispatcherTimer timer;
-        private ProcessCount processCount;
+        //private DispatcherTimer timer;
+        //private ProcessCount processCount;
         public OpenWindow()
         {
             InitializeComponent();
@@ -31,7 +31,7 @@ namespace MasterFreezer
          /// </summary>
          /// <param name="sender"></param>
         /// <param name="e"></param>
-         private void OpenWindow_Loaded(object sender, RoutedEventArgs e)
+         /*private void OpenWindow_Loaded(object sender, RoutedEventArgs e)
          {
              //设置定时器
              timer = new DispatcherTimer();
@@ -82,14 +82,14 @@ namespace MasterFreezer
 
         private class ProcessCount
         {
-        }
+        }*/
     }
  
      /// <summary>
      /// 处理倒计时的委托
      /// </summary>
     /// <returns></returns>
-     public delegate bool CountDownHandler();
+     //public delegate bool CountDownHandler();
  }
 
 
