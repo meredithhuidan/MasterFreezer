@@ -48,7 +48,27 @@
                     </LinearGradientBrush>
                 </Label.Background>
             </Label>
-            <TextBox Height="50" Text="输入手机号码" Width="300" HorizontalAlignment="Center" Margin="320,87,180,363" BorderBrush="#FF5CCD27" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="30"/>
+            <TextBox x:Name="txtUserID"  HorizontalAlignment="Center" Height="50" Margin="320,87,180,363" TextWrapping="Wrap" VerticalAlignment="Center" Width="300" FontSize="30" FontFamily="微软雅黑" BorderBrush="#FF64E434" >
+                <TextBox.Resources>
+                    <VisualBrush x:Key="HelpBrush" TileMode="None" Opacity="0.3" Stretch="None" AlignmentX="Left">
+                        <VisualBrush.Visual>
+                            <TextBlock FontStyle="Normal" Text="请输入手机号码" FontSize="30"/>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </TextBox.Resources>
+                <TextBox.Style>
+                    <Style TargetType="TextBox">
+                        <Style.Triggers>
+                            <Trigger Property="Text" Value="{x:Null}">
+                                <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="">
+                                <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBox.Style>
+            </TextBox>
             <Label Content="密码" 
                        Height="50" Width="120"   Margin="200,172,480,278" RenderTransformOrigin="0.437,-1.167" FontSize="25" TextOptions.TextFormattingMode="Display" HorizontalAlignment="Center" Foreground="#FFFBF8F8">
                 <Label.Background>
@@ -58,7 +78,27 @@
                     </LinearGradientBrush>
                 </Label.Background>
             </Label>
-            <TextBox Height="50" Text="输入密码" Width="300" HorizontalAlignment="Center" Margin="320,172,180,278" BorderBrush="#FF5CCD27" TextWrapping="Wrap" FontSize="30"/>
+            <TextBox x:Name="txtPassword"  HorizontalAlignment="Center" Height="50" Margin="320,172,180,278" TextWrapping="Wrap" VerticalAlignment="Center" Width="300" FontSize="30" FontFamily="微软雅黑" BorderBrush="#FF64E434" >
+                <TextBox.Resources>
+                    <VisualBrush x:Key="HelpBrush" TileMode="None" Opacity="0.3" Stretch="None" AlignmentX="Left">
+                        <VisualBrush.Visual>
+                            <TextBlock FontStyle="Normal" Text="请输入密码" FontSize="30"/>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </TextBox.Resources>
+                <TextBox.Style>
+                    <Style TargetType="TextBox">
+                        <Style.Triggers>
+                            <Trigger Property="Text" Value="{x:Null}">
+                                <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="">
+                                <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBox.Style>
+            </TextBox>
             <Button Content="登 录" Name="btnlogin1" 
                      Width="200" Height="50" BorderBrush="{x:Null}" Background="#FF8AEC5C" FontSize="34" Margin="303,332,297,118" HorizontalAlignment="Center" Click="btnlogin1_Click" Foreground="#FFFFFEFE"/>
 
