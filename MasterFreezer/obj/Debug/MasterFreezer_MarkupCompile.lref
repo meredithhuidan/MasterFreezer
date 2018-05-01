@@ -1,11 +1,11 @@
 ﻿
 
-FE:\WPF test\MasterFreezer\MasterFreezer\MainWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\CunfangWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\AdministorWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\QujianWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\ZancunWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\PostercunfangWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\OpenWindow.xaml;;
-FE:\WPF test\MasterFreezer\MasterFreezer\AdministorsettingWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\AdministorsettingWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\AdministorWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\MainWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\CunfangWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\OpenWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\PostercunfangWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\QujianWindow.xaml;;
+FE:\WPF test\MasterFreezer\MasterFreezer\views\ZancunWindow.xaml;;
 
