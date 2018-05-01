@@ -53,36 +53,36 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="AdministorsettingWindow.xaml.cs">
+    <Compile Include="views\AdministorsettingWindow.xaml.cs">
       <DependentUpon>AdministorsettingWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AdministorWindow.xaml.cs">
+    <Compile Include="views\AdministorWindow.xaml.cs">
       <DependentUpon>AdministorWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CunfangWindow.xaml.cs">
+    <Compile Include="views\CunfangWindow.xaml.cs">
       <DependentUpon>CunfangWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="OpenWindow.xaml.cs">
+    <Compile Include="views\OpenWindow.xaml.cs">
       <DependentUpon>OpenWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="PostercunfangWindow.xaml.cs">
+    <Compile Include="views\PostercunfangWindow.xaml.cs">
       <DependentUpon>PostercunfangWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="QujianWindow.xaml.cs">
+    <Compile Include="views\QujianWindow.xaml.cs">
       <DependentUpon>QujianWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ZancunWindow.xaml.cs">
+    <Compile Include="views\ZancunWindow.xaml.cs">
       <DependentUpon>ZancunWindow.xaml</DependentUpon>
     </Compile>
-    <Page Include="AdministorsettingWindow.xaml">
+    <Page Include="views\AdministorsettingWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="AdministorWindow.xaml">
+    <Page Include="views\AdministorWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -90,27 +90,27 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="CunfangWindow.xaml">
+    <Page Include="views\CunfangWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="OpenWindow.xaml">
+    <Page Include="views\OpenWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="PostercunfangWindow.xaml">
+    <Page Include="views\PostercunfangWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="QujianWindow.xaml">
+    <Page Include="views\QujianWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ZancunWindow.xaml">
+    <Page Include="views\ZancunWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

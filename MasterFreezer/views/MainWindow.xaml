@@ -61,8 +61,7 @@
                         </LinearGradientBrush>
                     </Button.Background>
                     <StackPanel Orientation="Vertical">
-                        <Image Width="80" Height="80" Source="作业4 薛惠丹.jpg" />
-                        <TextBlock VerticalAlignment="Center">寄件</TextBlock>
+                        <TextBlock VerticalAlignment="Center" RenderTransformOrigin="0.531,-0.6">寄件</TextBlock>
                     </StackPanel>
                 </Button>
             </Grid>

@@ -24,6 +24,7 @@ namespace MasterFreezer
             InitializeComponent();
         }
 
+
         private void btnfanhui1_Click(object sender, RoutedEventArgs e)
         {
             if (true)//里面掉验证函数

@@ -27,3 +27,32 @@ E:\WPF test\MasterFreezer\MasterFreezer\obj\Debug\OpenWindow.g.cs
 E:\WPF test\MasterFreezer\MasterFreezer\obj\Debug\OpenWindow.baml
 E:\WPF test\MasterFreezer\MasterFreezer\obj\Debug\AdministorsettingWindow.g.cs
 E:\WPF test\MasterFreezer\MasterFreezer\obj\Debug\AdministorsettingWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csprojResolveAssemblyReference.cache
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\App.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer_MarkupCompile.cache
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer_MarkupCompile.lref
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.exe
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.pdb
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\AdministorsettingWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\AdministorWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\MainWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\CunfangWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\OpenWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\PostercunfangWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\QujianWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\ZancunWindow.g.cs
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\MasterFreezer.exe.config
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\MasterFreezer.exe
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\MasterFreezer.pdb
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\AdministorsettingWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\AdministorWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\MainWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\CunfangWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\OpenWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\PostercunfangWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\QujianWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\views\ZancunWindow.baml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.g.resources
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.Properties.Resources.resources
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csproj.GenerateResource.cache
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csproj.CoreCompileInputs.cache

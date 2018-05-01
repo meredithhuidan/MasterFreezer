@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Release\
 MasterFreezer
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\huangyh\source\MasterFreezer\MasterFreezer\App.xaml
 8-1590303577
 

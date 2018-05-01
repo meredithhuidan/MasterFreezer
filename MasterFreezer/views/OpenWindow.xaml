@@ -19,7 +19,7 @@
                         <GradientStop Color="#FF63DA2A" Offset="1"/>
                     </LinearGradientBrush>
                 </Grid.Background>
-                <Label Name="lblSecond" FontSize="20" Foreground="Red" Background="#FFBDB5B5" Margin="689,10,10,10"/>
+                <TextBlock x:Name="lblSecond" HorizontalAlignment="Left" Margin="689,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57" FontSize="48" Foreground="#FFFF1313"><Run Text="5"/></TextBlock>
             </Grid>
         </Border>
         <Grid Grid.Row=" 1">
