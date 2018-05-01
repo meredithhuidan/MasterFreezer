@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MasterFreezer.db;
+using SqlSugar;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,6 +33,8 @@ namespace MasterFreezer
             ShowTimer.Tick += new EventHandler(ShowCurTimer);//起个Timer一直获取当前时间
             ShowTimer.Interval = new TimeSpan(0, 0, 0, 1, 0);
             ShowTimer.Start();
+
+            SqlSugarClient db = new DbContext().db;
         }
         //show timer by_songgp
         public void ShowCurTimer(object sender, EventArgs e)
@@ -93,5 +97,6 @@ namespace MasterFreezer
                 this.Visibility = System.Windows.Visibility.Hidden;
             }
         }
+        
     }
 }

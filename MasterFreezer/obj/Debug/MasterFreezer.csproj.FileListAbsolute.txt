@@ -56,3 +56,8 @@ C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.g.re
 C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.Properties.Resources.resources
 C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csproj.GenerateResource.cache
 C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csproj.CoreCompileInputs.cache
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\Google.Protobuf.dll
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\MySql.Data.dll
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\SqlSugar.dll
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\bin\Debug\MySql.Data.xml
+C:\Users\huangyh\source\MasterFreezer\MasterFreezer\obj\Debug\MasterFreezer.csproj.CopyComplete
