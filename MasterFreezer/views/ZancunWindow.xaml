@@ -7,7 +7,17 @@
         mc:Ignorable="d"
         Title="ZancunWindow" Height="600" Width="800" WindowState="Maximized" WindowStyle="None" AllowsTransparency="True">
     <Grid>
-       
-
+        <Button Content="1" HorizontalAlignment="Left" Margin="165,265,0,0" VerticalAlignment="Top" Width="50" Height="50"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="220,265,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="275,265,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="165,320,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="220,320,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="275,320,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="165,375,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="220,375,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="275,375,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="撤销" HorizontalAlignment="Left" Margin="165,430,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="220,430,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
+        <Button Content="确定" HorizontalAlignment="Left" Margin="275,430,0,0" VerticalAlignment="Top" Width="50" Height="50" RenderTransformOrigin="1.978,-0.536"/>
     </Grid>
 </Window>
