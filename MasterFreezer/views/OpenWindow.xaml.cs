@@ -19,7 +19,7 @@ namespace MasterFreezer
     public partial class OpenWindow : Window
     {
         // after 3000ms performance closeHandler
-        private int time = 10;
+        private int time = 6;
 
         public OpenWindow()
         {
