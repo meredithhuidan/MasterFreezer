@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Threading;
+using System.IO;
+using System.Windows.Forms;
 
 namespace MasterFreezer.views
 {
@@ -32,16 +34,9 @@ namespace MasterFreezer.views
 
         private void Window_Load(object sender, RoutedEventArgs e)
         {
-
-            string path = @"E:\WPF test\MasterFreezer3\MasterFreezer\MasterFreezer\image";
-
-            //string path = "..\\..\\Image";
-
-            string[] s = SearchFolder(path);
-
-            //string path1 = System.IO.Path.GetFileName(item);
-
-
+            string rootpath = System.Windows.Forms.Application.StartupPath.Substring(0, System.Windows.Forms.Application.StartupPath.LastIndexOf("\\"));
+            rootpath = rootpath.Substring(0, rootpath.LastIndexOf("\\")) + "\\image";
+            string[] s = SearchFolder(rootpath);
             BitmapImage_Source = new BitmapImage[s.Length];
             int i = 0;
             foreach (string item in s)

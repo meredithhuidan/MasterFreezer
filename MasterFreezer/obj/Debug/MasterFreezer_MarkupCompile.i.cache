@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\Coding\1\MasterFreezer\MasterFreezer\obj\Debug\
+E:\WPF test\MasterFreezer3\MasterFreezer\MasterFreezer\obj\Debug\
 MasterFreezer
 none
 false
 DEBUG;TRACE
-G:\Coding\1\MasterFreezer\MasterFreezer\App.xaml
+E:\WPF test\MasterFreezer3\MasterFreezer\MasterFreezer\App.xaml
 14-1221474751
 
-442125274998
-252098404103
+441232592709
+26696229032
 controls\KeyboardBase.xaml;resources\ImageDictionary.xaml;views\postman\StoreState.xaml;views\postman\CupboardNum.xaml;views\admin\AdministorsettingWindow.xaml;views\admin\AdministorWindow.xaml;views\admin\IPSetting.xaml;views\MainWindow.xaml;views\postman\CunfangWindow.xaml;views\OpenWindow.xaml;views\postman\PostercunfangWindow.xaml;views\user\QujianWindow.xaml;views\ScreenWindow.xaml;views\admin\TempSetting.xaml;
 
-False
+True
 
